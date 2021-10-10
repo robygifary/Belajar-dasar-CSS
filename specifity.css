@@ -1,0 +1,8 @@
+
+a {color: inherit;}
+ul#sarapan li {
+    color: darkorange;
+}
+ul#sarapan li.favorit {
+    color: deeppink;
+}

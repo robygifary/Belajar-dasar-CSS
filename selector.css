@@ -1,0 +1,27 @@
+body {
+    font-family: arial;
+  }
+  h1, h2 {
+    color: orange;
+  }
+  li:nth-child(odd) a {
+    color: rgb(55, 145, 55);
+  }
+  }
+  .cetak-tebal {
+    font-weight: bold;
+    font-size: 5px;
+  }
+  .hello:hover {
+    color: brown;
+    font-size: 30px;
+}
+.hello:active {
+    font-style: italic;
+}
+.hello:actived {
+  font-style: italic;
+}
+p:first-of-type {
+  color: violet;
+}
